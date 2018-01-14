@@ -4,7 +4,7 @@ author: Max Bernstein
 author_nickname: Max
 email: exp57@bernsteinbear.com
 description: "An ExCollege class about navigating life after college"
-baseurl: "https://bernsteinbear.com/excollege"
+baseurl: "/excollege"
 url: "https://bernsteinbear.com/excollege/"
 
 # Build settings
