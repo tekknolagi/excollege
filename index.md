@@ -19,6 +19,17 @@ It's called <i>Tech Trends and Careers: Tufts and Beyond</i>
 <sup id="fnref:naming"><a href="#fn:naming" class="footnote">1</a></sup>.
 </p>
 
+<h2>When is it?</h2>
+<p>
+Mondays and Wednesdays from 6:30pm to 7:45pm, Spring semester 2018.
+</p>
+
+<h2>Where is it?</h2>
+<p>
+The classroom location is currently TBD, but we're trying to negotiate a room
+in Halligan.
+</p>
+
 <h2>Who should take this class?</h2>
 <p>
 Anyone, really! We're trying to get Tufts people settled into fulfilling
