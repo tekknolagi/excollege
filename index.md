@@ -201,7 +201,7 @@ Well,
 <h2>So who should I contact if I have more questions?</h2>
 <p>
 You can reach both of us at <code>exp57 <b>at</b> bernsteinbear <b>dot</b>
-    com</code></a>.  We would be delighted to answer questions.
+    com</code>.  We would be delighted to answer questions.
 </p>
 
 <br />
