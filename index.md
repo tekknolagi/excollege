@@ -19,17 +19,6 @@ It's called <i>Tech Trends and Careers: Tufts and Beyond</i>
 <sup id="fnref:naming"><a href="#fn:naming" class="footnote">1</a></sup>.
 </p>
 
-<h2>When is it?</h2>
-<p>
-Mondays and Wednesdays from 6:30pm to 7:45pm, Spring semester 2018.
-</p>
-
-<h2>Where is it?</h2>
-<p>
-The classroom location is currently *Miner Hall Room 225*, but we're trying to
-negotiate a room in Halligan. Keep checking this page for updates.
-</p>
-
 <h2>Who should take this class?</h2>
 <p>
 Anyone, really! We're trying to get Tufts people settled into fulfilling
@@ -64,103 +53,7 @@ new world of computer science.
         <li>How to create and maintain a personal online presence</li>
         <li>Open source software</li>
     </ol>
-
 </div>
-<p>
-Here is the tentative syllabus:
-</p>
-<table id="syllabus">
-    <thead>
-        <tr><th>Week</th><th>Date</th><th>Topic</th></tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>Jan 22, 24</td>
-            <td>Overview of the class and expectations</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Jan 29, 31</td>
-            <td>
-            Hot topics in computer science (part 1)
-            <br />
-            Guest speaker <b>Ming Y. Chow</b> talking about security &mdash;
-            get hyped!
-            </td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Feb 5, 7</td>
-            <td>Hot topics in computer science (part 2)</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Feb 12, 14</td>
-            <td>Overview of the application process, pre-interview</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Feb 19, 21</td>
-            <td>Overview of the interview</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Feb 26, 28</td>
-            <td>The interview (cont'd) and post-interview</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Mar 5, 7</td>
-            <td>Lifecycle of a project</td>
-        </tr>
-        <tr>
-            <td>8 (day 1)</td>
-            <td>Mar 12</td>
-            <td>Tech spec/design critiques</td>
-        </tr>
-        <tr>
-            <td>8 (day 2)</td>
-            <td>Mar 14</td>
-            <td>Workplace interactions</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Mar 26, 28</td>
-            <td>Entrepreneurship and startups</td>
-        </tr>
-        <tr>
-            <td>10 (day 1)</td>
-            <td>Apr 2</td>
-            <td>Workplace guest speaker</td>
-        </tr>
-        <tr>
-            <td>10 (day 2)</td>
-            <td>Apr 4</td>
-            <td>UI/UX guest speaker</td>
-        </tr>
-        <tr>
-            <td>11 (day 1)</td>
-            <td>Apr 9</td>
-            <td>Personal online presence</td>
-        </tr>
-        <tr>
-            <td>11 (day 2)</td>
-            <td>Apr 11</td>
-            <td>Open source software and the community</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>Apr 16, 18</td>
-            <td>Final project presentations, Q&amp;A</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>Apr 23, 25</td>
-            <td>Final project presentations, Q&amp;A</td>
-        </tr>
-    </tbody>
-</table>
 <p>
 The homework will be primarily working on your personal project and doing
 readings in between classes. Classes will be discussions and hands-on
@@ -217,7 +110,7 @@ Well,
 <h2>So who should I contact if I have more questions?</h2>
 <p>
 You can reach both of us at <code>exp57 <b>at</b> bernsteinbear <b>dot</b>
-    com</code>.  We would be delighted to answer questions.
+    com</code>. We would be delighted to answer questions.
 </p>
 
 <br />
