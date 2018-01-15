@@ -107,12 +107,6 @@ Well,
 <sup id="fnref:disrupt"><a href="#fn:disrupt" class="footnote">2</a></sup>.
 </p>
 
-<h2>So who should I contact if I have more questions?</h2>
-<p>
-You can reach both of us at <code>exp57 <b>at</b> bernsteinbear <b>dot</b>
-    com</code>. We would be delighted to answer questions.
-</p>
-
 <br />
 <hr style="max-width: 100px; margin: 0px;" />
 <!-- Footnotes -->
