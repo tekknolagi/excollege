@@ -35,17 +35,16 @@ negotiate a room in Halligan. Keep checking this page for updates.
         <tr>
             <td>2</td>
             <td>Jan 29, 31</td>
-            <td>
-            Hot topics in computer science (part 1)
-            <br />
-            Guest speaker <b>Ming Y. Chow</b> talking about security &mdash;
-            get hyped!
-            </td>
+            <td>Hot topics in computer science (part 1)</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Feb 5, 7</td>
-            <td>Hot topics in computer science (part 2)</td>
+            <td>Hot topics in computer science (part 2)
+            <br />
+            Guest speaker <b>Ming Y. Chow</b> talking about security &mdash;
+            get hyped!
+            </td>
         </tr>
         <tr>
             <td></td>
