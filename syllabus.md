@@ -48,6 +48,11 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Hot topics in computer science (part 2)</td>
         </tr>
         <tr>
+            <td></td>
+            <td>Feb 9</td>
+            <td>Career fair!! Go!!</td>
+        </tr>
+        <tr>
             <td>4</td>
             <td>Feb 12, 14</td>
             <td>Overview of the application process, pre-interview</td>
