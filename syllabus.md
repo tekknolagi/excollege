@@ -50,7 +50,8 @@ negotiate a room in Halligan. Keep checking this page for updates.
         <tr>
             <td></td>
             <td>Feb 9</td>
-            <td>Career fair!! Go!!</td>
+            <td>Career fair!! Go!!<br />
+            IDHack!! Go!!</td>
         </tr>
         <tr>
             <td>4</td>
