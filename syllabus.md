@@ -58,9 +58,19 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Overview of the application process, pre-interview</td>
         </tr>
         <tr>
-            <td>5</td>
-            <td>Feb 19, 21</td>
+            <td>5 a</td>
+            <td>Feb 19</td>
             <td>Overview of the interview</td>
+        </tr>
+        <tr>
+            <td>5 b</td>
+            <td>Feb 21</td>
+            <td>Overview of the interview
+            <br />
+            Guest speakers <b>Saqi Mehta</b> and <b>Jonathan Sanford</b>
+            talking about how companies evaluate candidates from a recruiter
+            perspective!
+            </td>
         </tr>
         <tr>
             <td>6</td>
@@ -73,12 +83,12 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Lifecycle of a project</td>
         </tr>
         <tr>
-            <td>8 (day 1)</td>
+            <td>8 a</td>
             <td>Mar 12</td>
             <td>Tech spec/design critiques</td>
         </tr>
         <tr>
-            <td>8 (day 2)</td>
+            <td>8 b</td>
             <td>Mar 14</td>
             <td>Workplace interactions</td>
         </tr>
@@ -88,22 +98,22 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Entrepreneurship and startups</td>
         </tr>
         <tr>
-            <td>10 (day 1)</td>
+            <td>10 a</td>
             <td>Apr 2</td>
             <td>Workplace guest speaker</td>
         </tr>
         <tr>
-            <td>10 (day 2)</td>
+            <td>10 b</td>
             <td>Apr 4</td>
             <td>UI/UX guest speaker</td>
         </tr>
         <tr>
-            <td>11 (day 1)</td>
+            <td>11 a</td>
             <td>Apr 9</td>
             <td>Personal online presence</td>
         </tr>
         <tr>
-            <td>11 (day 2)</td>
+            <td>11 b</td>
             <td>Apr 11</td>
             <td>Open source software and the community</td>
         </tr>
