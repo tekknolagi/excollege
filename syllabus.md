@@ -7,6 +7,8 @@ layout: page
 Class is taught Mondays and Wednesdays from 6:30pm to 7:45pm, Spring semester
 2018.
 
+This class is pass/no pass.
+
 The classroom location is currently *Miner Hall Room 225*, but we're trying to
 negotiate a room in Halligan. Keep checking this page for updates.
 
