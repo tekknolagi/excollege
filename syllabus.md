@@ -137,7 +137,6 @@ negotiate a room in Halligan. Keep checking this page for updates.
 If you want to ask questions, consider posting in the [course Piazza
 page][piazza]. That way, your classmates can benefit from the answer.
 
-If your question is very personal, you can reach both of us at <code>exp57
-<b>at</b> bernsteinbear <b>dot</b> com</code>.
+You are also welcome to make an instructor-only post on Piazza.
 
 [piazza]: https://piazza.com/class/jb3yqa4h4rjl8
