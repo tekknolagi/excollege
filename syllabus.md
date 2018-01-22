@@ -95,6 +95,13 @@ to add materials from past lectures.
         </tr>
         <tr>
             <td></td>
+            <td>Feb 18-24</td>
+            <td>
+            <a href="http://go.tufts.edu/eweek">E-week</a> is great for
+            networking.</td>
+        </tr>
+        <tr>
+            <td></td>
             <td>Feb 19</td>
             <td>Presidents' Day! No class. Have a nice time.</td>
         </tr>
