@@ -94,19 +94,26 @@ to add materials from past lectures.
             </td>
         </tr>
         <tr>
-            <td>5</td>
+            <td></td>
             <td>Feb 19</td>
-            <td>Overview of the interview</td>
+            <td>Presidents' Day! No class. Have a nice time.</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Feb 21</td>
-            <td>Overview of the interview (cont'd)
+            <td>Overview of the interview
             <br />
             Guest speakers <b>Saqi Mehta</b> and <b>Jonathan Sanford</b>
             talking about how companies evaluate candidates from a recruiter
             perspective!
             </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Feb 22</td>
+            <td>Overview of the interview (cont'd)
+            <br />
+            Monday Schedule on Thursday</td>
         </tr>
         <tr>
             <td>6</td>
@@ -142,7 +149,7 @@ to add materials from past lectures.
         </tr>
         <tr>
             <td></td>
-            <td>Mar 15-25</td>
+            <td>Mar 17-25</td>
             <td>SPRING BREAK! Take some time off from your computer.</td>
         </tr>
         <tr>
@@ -176,9 +183,9 @@ to add materials from past lectures.
             <td>Open source software and the community</td>
         </tr>
         <tr>
-            <td>12</td>
+            <td></td>
             <td>Apr 16</td>
-            <td>Final project presentations, Q&amp;A</td>
+            <td>Patriots' Day! No class. Have a nice time.</td>
         </tr>
         <tr>
             <td>12</td>
