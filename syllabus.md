@@ -35,7 +35,9 @@ to add materials from past lectures.
         <tr>
             <td>1</td>
             <td>Jan 22</td>
-            <td>Overview of the class and expectations</td>
+            <td>Overview of the class and expectations
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_1.pdf">slides</a></td>
         </tr>
         <tr>
             <td>1</td>
