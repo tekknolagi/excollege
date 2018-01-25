@@ -42,7 +42,9 @@ to add materials from past lectures.
         <tr>
             <td>1</td>
             <td>Jan 24</td>
-            <td>Overview of "tech" and the computing landscape</td>
+            <td>Overview of "tech" and the computing landscape
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_2.pdf">slides</a></td>
         </tr>
         <tr>
             <td>2</td>
