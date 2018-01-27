@@ -49,17 +49,28 @@ to add materials from past lectures.
         <tr>
             <td>2</td>
             <td>Jan 29</td>
-            <td>Hot topics in computer science (part 1)</td>
+            <td>Hot topics in computer science (part 1):
+            <ul>
+             <li>Compilers and Programming Languages</li>
+             <li>Web Programming</li>
+            </ul>
+            </td>
         </tr>
         <tr>
             <td>2</td>
             <td>Jan 31</td>
-            <td>Hot topics in computer science (part 2)</td>
+            <td>
+            Hot topics in computer science (part 2):
+            <ul>
+             <li>Machine Learning</li>
+             <li>Guest speaker <b>Tom Hebb</b> talking about OS &amp; Embedded Systems!</li>
+            </ul>
+            </td>
         </tr>
         <tr>
             <td>3</td>
             <td>Feb 5</td>
-            <td>Hot topics in computer science (part 3)
+            <td>Hot topics in computer science (part 3):
             <br />
             Guest speakers <b>Ming Y. Chow</b> and <b>Winnona DeSombre</b>
             talking about security &mdash; get hyped!
