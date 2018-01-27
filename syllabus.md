@@ -44,7 +44,14 @@ to add materials from past lectures.
             <td>Jan 24</td>
             <td>Overview of "tech" and the computing landscape
             <br />
+            Homework 0 out
+            <br />
             <a href="{{ site.baseurl }}/assets/day_2.pdf">slides</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Jan 26</td>
+            <td>Homework 0 due at 11:59pm</td>
         </tr>
         <tr>
             <td>2</td>
