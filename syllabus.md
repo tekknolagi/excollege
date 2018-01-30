@@ -37,7 +37,8 @@ to add materials from past lectures.
             <td>Jan 22</td>
             <td>Overview of the class and expectations
             <br />
-            <a href="{{ site.baseurl }}/assets/day_1.pdf">slides</a></td>
+            <a href="{{ site.baseurl }}/assets/day_1.pdf">slides</a>
+            </td>
         </tr>
         <tr>
             <td>1</td>
@@ -46,7 +47,8 @@ to add materials from past lectures.
             <br />
             Homework 0 out
             <br />
-            <a href="{{ site.baseurl }}/assets/day_2.pdf">slides</a></td>
+            <a href="{{ site.baseurl }}/assets/day_2.pdf">slides</a>
+            </td>
         </tr>
         <tr>
             <td></td>
