@@ -61,7 +61,7 @@ to add materials from past lectures.
              <li>Compilers and Programming Languages</li>
              <li>Web Programming</li>
             </ul>
-            <a href="{{ site.baseurl }}/assets/day_3.pdf">slides</a></td>
+            <a href="{{ site.baseurl }}/assets/day_3.pdf">slides</a>
             </td>
         </tr>
         <tr>
