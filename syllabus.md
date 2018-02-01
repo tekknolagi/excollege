@@ -75,6 +75,7 @@ to add materials from past lectures.
              <li>Machine Learning</li>
              <li>Guest speaker <b>Tom Hebb</b> talking about OS &amp; Embedded Systems!</li>
             </ul>
+            <a href="{{ site.baseurl }}/assets/day_4.pdf">slides</a>
             </td>
         </tr>
         <tr>
