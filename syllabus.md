@@ -96,6 +96,8 @@ to add materials from past lectures.
             <br />
             How to get your resume and conversation game up to speed before the
             career fair
+            <br />
+            Cool event at 12PM: <a href="https://www.facebook.com/events/100761334079942/100936437395765/">Saqi Mehta on how to get an internship/job</a>
             </td>
         </tr>
         <tr>
