@@ -85,6 +85,8 @@ to add materials from past lectures.
             <br />
             Guest speakers <b>Ming Y. Chow</b> and <b>Winnona DeSombre</b>
             talking about security &mdash; get hyped!
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_5.pdf">slides</a>
             </td>
         </tr>
         <tr>
