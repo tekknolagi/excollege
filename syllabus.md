@@ -98,6 +98,8 @@ to add materials from past lectures.
             career fair
             <br />
             Cool event at 12PM: <a href="https://www.facebook.com/events/100761334079942/100936437395765/">Saqi Mehta on how to get an internship/job</a>
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_6.pdf">slides</a>
             </td>
         </tr>
         <tr>
