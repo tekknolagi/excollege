@@ -22,6 +22,43 @@ negotiate a room in Halligan. Keep checking this page for updates.
 * 30% Weekly assignments (content varies wildly week-to-week)
 
 
+## Assignments
+
+<table id="assignments">
+    <thead>
+        <tr><th>#</th><th>Due</th><th>Assignment</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>0</td>
+            <td>Jan 26, 11:59pm</td>
+            <td>Introduce yourself on Piazza</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Feb 7, 11:59pm</td>
+            <td>Post a PDF of your resume on Piazza for critique before the
+            career fair</td>
+        </tr>
+        <tr>
+            <td>2a</td>
+            <td>Feb 21, 6:29pm</td>
+            <td>Bring a paper copy of your project proposal to class for
+            critique</td>
+        </tr>
+        <tr>
+            <td>2b</td>
+            <td>Feb 21, 11:59pm</td>
+            <td>Post a revised version of your proposal on Piazza</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Feb 28, 11:59pm</td>
+            <td>Post your specification on Piazza</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Calendar
 
 Please note that this is subject to change. It will also be continually edited
@@ -115,6 +152,8 @@ to add materials from past lectures.
             for class, version control systems
             <br />
             Other hot topics if we need to
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_7.pdf">slides</a>
             </td>
         </tr>
         <tr>
@@ -140,7 +179,9 @@ to add materials from past lectures.
         <tr>
             <td>5</td>
             <td>Feb 21</td>
-            <td>Overview of the interview
+            <td>Homework 2 due at 6:29pm &mdash; bring a paper copy to class!
+            <br />
+            Overview of the interview
             <br />
             Guest speakers <b>Saqi Mehta</b> and <b>Jonathan Sanford</b>
             talking about how companies evaluate candidates from a recruiter
