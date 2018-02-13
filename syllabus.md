@@ -82,7 +82,7 @@ to add materials from past lectures.
             <td>Jan 24</td>
             <td>Overview of "tech" and the computing landscape
             <br />
-            Homework 0 out
+            <span class="assignment">Homework 0 out</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_2.pdf">slides</a>
             </td>
@@ -90,7 +90,7 @@ to add materials from past lectures.
         <tr>
             <td></td>
             <td>Jan 26</td>
-            <td>Homework 0 due at 11:59pm</td>
+            <td><span class="assignment">Homework 0 due at 11:59pm</span></td>
         </tr>
         <tr>
             <td>2</td>
@@ -136,6 +136,8 @@ to add materials from past lectures.
             <br />
             Cool event at 12PM: <a href="https://www.facebook.com/events/100761334079942/100936437395765/">Saqi Mehta on how to get an internship/job</a>
             <br />
+            <span class="assignment">Homework 1 out today, due at 11:59pm</span>
+            <br />
             <a href="{{ site.baseurl }}/assets/day_6.pdf">slides</a>
             </td>
         </tr>
@@ -152,6 +154,8 @@ to add materials from past lectures.
             for class, version control systems
             <br />
             Other hot topics if we need to
+            <br />
+            <span class="assignment">Homework 2 out</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_7.pdf">slides</a>
             </td>
@@ -179,9 +183,10 @@ to add materials from past lectures.
         <tr>
             <td>5</td>
             <td>Feb 21</td>
-            <td>Homework 2 due at 6:29pm &mdash; bring a paper copy to class!
+            <td><span class="assignment">Homework 2 due at 6:29pm &mdash; bring
+            a paper copy to class!</span>
             <br />
-            Overview of the interview
+            Peer proposal critique
             <br />
             Guest speakers <b>Saqi Mehta</b> and <b>Jonathan Sanford</b>
             talking about how companies evaluate candidates from a recruiter
@@ -191,7 +196,7 @@ to add materials from past lectures.
         <tr>
             <td>5</td>
             <td>Feb 22</td>
-            <td>Overview of the interview (cont'd)
+            <td>Overview of the interview
             <br />
             Monday Schedule on Thursday</td>
         </tr>
