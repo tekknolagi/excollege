@@ -166,6 +166,8 @@ to add materials from past lectures.
             <td>Overview of the application process, pre-interview
             <br />
             How to network like a baller
+            <br />
+            slides on Piazza because they contain PII
             </td>
         </tr>
         <tr>
