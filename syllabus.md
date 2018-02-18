@@ -49,12 +49,12 @@ negotiate a room in Halligan. Keep checking this page for updates.
         <tr>
             <td>2b</td>
             <td>Feb 21, 11:59pm</td>
-            <td>Post a revised version of your proposal on Piazza</td>
+            <td>Post a revised version of your proposal on Piazza (PDF)</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Feb 28, 11:59pm</td>
-            <td>Post your specification on Piazza</td>
+            <td>Post your specification on Piazza (PDF)</td>
         </tr>
     </tbody>
 </table>
