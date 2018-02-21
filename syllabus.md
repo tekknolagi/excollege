@@ -29,12 +29,12 @@ negotiate a room in Halligan. Keep checking this page for updates.
         <tr><th>#</th><th>Due</th><th>Assignment</th></tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="done">
             <td>0</td>
             <td>Jan 26, 11:59pm</td>
             <td>Introduce yourself on Piazza</td>
         </tr>
-        <tr>
+        <tr class="done">
             <td>1</td>
             <td>Feb 7, 11:59pm</td>
             <td>Post a PDF of your resume on Piazza for critique before the
@@ -82,7 +82,7 @@ to add materials from past lectures.
             <td>Jan 24</td>
             <td>Overview of "tech" and the computing landscape
             <br />
-            <span class="assignment">Homework 0 out</span>
+            <span class="assignment done">Homework 0 out</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_2.pdf">slides</a>
             </td>
@@ -90,7 +90,9 @@ to add materials from past lectures.
         <tr>
             <td></td>
             <td>Jan 26</td>
-            <td><span class="assignment">Homework 0 due at 11:59pm</span></td>
+            <td><span class="assignment done">Homework 0 due at
+            11:59pm</span>
+        </td>
         </tr>
         <tr>
             <td>2</td>
@@ -136,7 +138,8 @@ to add materials from past lectures.
             <br />
             Cool event at 12PM: <a href="https://www.facebook.com/events/100761334079942/100936437395765/">Saqi Mehta on how to get an internship/job</a>
             <br />
-            <span class="assignment">Homework 1 out today, due at 11:59pm</span>
+            <span class="assignment done">Homework 1 out today, due at
+            11:59pm</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_6.pdf">slides</a>
             </td>
@@ -155,7 +158,9 @@ to add materials from past lectures.
             <br />
             Other hot topics if we need to
             <br />
-            <span class="assignment">Homework 2 out</span>
+            <span class="assignment">Homework 2a out</span>
+            <br />
+            <span class="assignment">Homework 2b out</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_7.pdf">slides</a>
             </td>
@@ -185,7 +190,7 @@ to add materials from past lectures.
         <tr>
             <td>5</td>
             <td>Feb 21</td>
-            <td><span class="assignment">Homework 2 due at 6:29pm &mdash; bring
+            <td><span class="assignment">Homework 2a due at 6:29pm &mdash; bring
             a paper copy to class!</span>
             <br />
             Peer proposal critique
@@ -193,6 +198,9 @@ to add materials from past lectures.
             Guest speakers <b>Saqi Mehta</b> and <b>Jonathan Sanford</b>
             talking about how companies evaluate candidates from a recruiter
             perspective!
+            <br />
+            <span class="assignment">Homework 2b due at 11:59pm &mdash; post it
+            on Piazza!</span>
             </td>
         </tr>
         <tr>

@@ -56,8 +56,13 @@
                 width: 80px;
             }
 
-            span.assignment {
+            .assignment:not(.done), table#assignments tbody tr:not(.done) {
                 color: red;
+            }
+
+            .assignment.done, table#assignments tbody tr.done {
+                color: darkgrey;
+                text-decoration: line-through;
             }
 
             /*
