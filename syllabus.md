@@ -40,21 +40,26 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Post a PDF of your resume on Piazza for critique before the
             career fair</td>
         </tr>
-        <tr>
+        <tr class="done">
             <td>2a</td>
             <td>Feb 21, 6:29pm</td>
             <td>Bring a paper copy of your project proposal to class for
             critique</td>
         </tr>
-        <tr>
+        <tr class="done">
             <td>2b</td>
             <td>Feb 21, 11:59pm</td>
             <td>Post a revised version of your proposal on Piazza (PDF)</td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>3a</td>
             <td>Feb 28, 11:59pm</td>
-            <td>Post your specification on Piazza (PDF)</td>
+            <td>Post your first draft specification on Piazza (PDF)</td>
+        </tr>
+        <tr>
+            <td>3b</td>
+            <td>Mar 5, 11:59pm</td>
+            <td>Post your final specification on Piazza (PDF)</td>
         </tr>
     </tbody>
 </table>
@@ -158,9 +163,9 @@ to add materials from past lectures.
             <br />
             Other hot topics if we need to
             <br />
-            <span class="assignment">Homework 2a out</span>
+            <span class="assignment done">Homework 2a out</span>
             <br />
-            <span class="assignment">Homework 2b out</span>
+            <span class="assignment done">Homework 2b out</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_7.pdf">slides</a>
             </td>
@@ -190,8 +195,8 @@ to add materials from past lectures.
         <tr>
             <td>5</td>
             <td>Feb 21</td>
-            <td><span class="assignment">Homework 2a due at 6:29pm &mdash; bring
-            a paper copy to class!</span>
+            <td><span class="assignment done">Homework 2a due at 6:29pm &mdash;
+            bring a paper copy to class!</span>
             <br />
             Peer proposal critique
             <br />
@@ -199,8 +204,8 @@ to add materials from past lectures.
             talking about how companies evaluate candidates from a recruiter
             perspective!
             <br />
-            <span class="assignment">Homework 2b due at 11:59pm &mdash; post it
-            on Piazza!</span>
+            <span class="assignment done">Homework 2b due at 11:59pm &mdash;
+            post it on Piazza!</span>
             </td>
         </tr>
         <tr>
@@ -218,12 +223,20 @@ to add materials from past lectures.
         <tr>
             <td>6</td>
             <td>Feb 28</td>
-            <td>The technical interview (cont'd) and post-interview</td>
+            <td>The technical interview (cont'd) and post-interview
+            <br />
+            <span class="assignment">Homework 3a due at 11:50pm &mdash; post it
+            on Piazza (PDF)!</span>
+            </td>
         </tr>
         <tr>
             <td>7</td>
             <td>Mar 5</td>
-            <td>Lifecycle of a project</td>
+            <td>Lifecycle of a project
+            <br />
+            <span class="assignment">Homework 3b due at 11:59pm &mdash; post it
+            on Piazza (PDF)!</span>
+            </td>
         </tr>
         <tr>
             <td>7</td>
