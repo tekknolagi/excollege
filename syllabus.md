@@ -213,12 +213,18 @@ to add materials from past lectures.
             <td>Feb 22</td>
             <td>Overview of the interview
             <br />
-            Monday Schedule on Thursday</td>
+            Monday Schedule on Thursday
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_10.pdf">slides</a>
+            </td>
         </tr>
         <tr>
             <td>6</td>
             <td>Feb 26</td>
-            <td>The technical interview</td>
+            <td>The technical interview
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_11.pdf">slides</a>
+            </td>
         </tr>
         <tr>
             <td>6</td>
