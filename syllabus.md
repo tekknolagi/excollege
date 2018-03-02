@@ -51,7 +51,7 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Feb 21, 11:59pm</td>
             <td>Post a revised version of your proposal on Piazza (PDF)</td>
         </tr>
-        <tr>
+        <tr class="done">
             <td>3a</td>
             <td>Feb 28, 11:59pm</td>
             <td>Post your first draft specification on Piazza (PDF)</td>
@@ -74,7 +74,7 @@ to add materials from past lectures.
         <tr><th>Week</th><th>Date</th><th>Topic</th></tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="week odd">
             <td>1</td>
             <td>Jan 22</td>
             <td>Overview of the class and expectations
@@ -82,7 +82,7 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_1.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>1</td>
             <td>Jan 24</td>
             <td>Overview of "tech" and the computing landscape
@@ -99,7 +99,7 @@ to add materials from past lectures.
             11:59pm</span>
         </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>2</td>
             <td>Jan 29</td>
             <td>Hot topics in computer science (part 1):
@@ -110,7 +110,7 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_3.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>2</td>
             <td>Jan 31</td>
             <td>
@@ -122,7 +122,7 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_4.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>3</td>
             <td>Feb 5</td>
             <td>Hot topics in computer science (part 3):
@@ -133,7 +133,7 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_5.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>3</td>
             <td>Feb 7</td>
             <td>Overview of the application process, resumes
@@ -155,7 +155,7 @@ to add materials from past lectures.
             <td>Career fair!! Go!!<br />
             IDHack!! Go!!</td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>4</td>
             <td>Feb 12</td>
             <td>Introduce the <i>"personal project"</i> you will be working on
@@ -170,7 +170,7 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_7.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>4</td>
             <td>Feb 14</td>
             <td>Overview of the application process, pre-interview
@@ -192,7 +192,7 @@ to add materials from past lectures.
             <td>Feb 19</td>
             <td>Presidents' Day! No class. Have a nice time.</td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>5</td>
             <td>Feb 21</td>
             <td><span class="assignment done">Homework 2a due at 6:29pm &mdash;
@@ -208,7 +208,7 @@ to add materials from past lectures.
             post it on Piazza!</span>
             </td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>5</td>
             <td>Feb 22</td>
             <td>Overview of the interview
@@ -218,7 +218,7 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_10.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>6</td>
             <td>Feb 26</td>
             <td>The technical interview
@@ -226,35 +226,40 @@ to add materials from past lectures.
             <a href="{{ site.baseurl }}/assets/day_11.pdf">slides</a>
             </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>6</td>
             <td>Feb 28</td>
             <td>The technical interview (cont'd) and post-interview
             <br />
-            <span class="assignment">Homework 3a due at 11:50pm &mdash; post it
-            on Piazza (PDF)!</span>
+            <span class="assignment done">Homework 3a due at 11:50pm &mdash;
+            post it on Piazza (PDF)!</span>
             </td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>7</td>
             <td>Mar 5</td>
-            <td>Lifecycle of a project
+            <td>
+            Lifecycle of a project
             <br />
             <span class="assignment">Homework 3b due at 11:59pm &mdash; post it
             on Piazza (PDF)!</span>
             </td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>7</td>
             <td>Mar 7</td>
-            <td>Lifecycle of a project</td>
+            <td>
+            Tech spec/design critiques
+            </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>8</td>
             <td>Mar 12</td>
-            <td>Tech spec/design critiques</td>
+            <td>
+            Lifecycle of a project
+            </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>8</td>
             <td>Mar 14</td>
             <td>There will be a panel of well-loved <b>alumni in industry</b>
@@ -266,59 +271,59 @@ to add materials from past lectures.
             <td>Mar 17-25</td>
             <td>SPRING BREAK! Take some time off from your computer.</td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>9</td>
             <td>Mar 26</td>
             <td>Entrepreneurship and startups</td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>9</td>
             <td>Mar 28</td>
             <td>Entrepreneurship and startups</td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>10</td>
             <td>Apr 2</td>
             <td>Workplace interactions</td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>10</td>
             <td>Apr 4</td>
             <td>UI/UX <b>guest speaker</b></td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>11</td>
             <td>Apr 9</td>
             <td>Building and maintaining a personal online presence</td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>11</td>
             <td>Apr 11</td>
             <td>Open source software and the community</td>
         </tr>
-        <tr>
-            <td></td>
+        <tr class="week">
+            <td>12</td>
             <td>Apr 16</td>
             <td>Patriots' Day! No class. Have a nice time.</td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>12</td>
             <td>Apr 18</td>
             <td>Final project presentations, Q&amp;A</td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>13</td>
             <td>Apr 23</td>
             <td>Final project presentations, Q&amp;A</td>
         </tr>
-        <tr>
+        <tr class="week odd">
             <td>13</td>
             <td>Apr 25</td>
             <td>Guest speaker <b>Yotam Bentov</b> talking about
             entrepreneurship and freelancing!
             </td>
         </tr>
-        <tr>
+        <tr class="week">
             <td>14</td>
             <td>Apr 30</td>
             <td>Wrap-up and your next steps</td>
