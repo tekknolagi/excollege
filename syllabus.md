@@ -239,7 +239,7 @@ to add materials from past lectures.
             <td>7</td>
             <td>Mar 5</td>
             <td>
-            Lifecycle of a project
+            Lifecycle of a project &amp; spec critique, workshop
             <br />
             <span class="assignment">Homework 3b due at 11:59pm &mdash; post it
             on Piazza (PDF)!</span>
@@ -249,7 +249,7 @@ to add materials from past lectures.
             <td>7</td>
             <td>Mar 7</td>
             <td>
-            Tech spec/design critiques
+            Project work day! Bring your laptops and ideas.
             </td>
         </tr>
         <tr class="week">
