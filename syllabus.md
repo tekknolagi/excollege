@@ -239,7 +239,9 @@ to add materials from past lectures.
             <td>7</td>
             <td>Mar 5</td>
             <td>
-            Lifecycle of a project &amp; spec critique, workshop
+            Article discussion, lifecycle of a project, &amp; how Git works
+            <br />
+            Bring a laptop!
             <br />
             <span class="assignment">Homework 3b due at 11:59pm &mdash; post it
             on Piazza (PDF)!</span>
@@ -256,7 +258,7 @@ to add materials from past lectures.
             <td>8</td>
             <td>Mar 12</td>
             <td>
-            Lifecycle of a project
+            Ethics in computing &amp; case study
             </td>
         </tr>
         <tr class="week">
@@ -264,6 +266,9 @@ to add materials from past lectures.
             <td>Mar 14</td>
             <td>There will be a panel of well-loved <b>alumni in industry</b>
             talking about what being a working programmer is like!
+            <br />
+            Please bring questions prepared so you can get the most out of
+            their experience!
             </td>
         </tr>
         <tr>
