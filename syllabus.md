@@ -258,7 +258,11 @@ to add materials from past lectures.
             <td>8</td>
             <td>Mar 12</td>
             <td>
-            Ethics in computing &amp; case study
+            <span class="assignment done">Ethics in computing &amp; case
+            study</span>
+            <br />
+            Digital Security 101 talk in Tisch 316 at 6:30pm! Be there on time!
+            See <a href="https://i.imgur.com/Ig8PiJf.jpg">the invite</a>.
             </td>
         </tr>
         <tr class="week">
