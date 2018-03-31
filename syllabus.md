@@ -56,10 +56,16 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Feb 28, 11:59pm</td>
             <td>Post your first draft specification on Piazza (PDF)</td>
         </tr>
-        <tr>
+        <tr class="done">
             <td>3b</td>
             <td>Mar 5, 11:59pm</td>
             <td>Post your final specification on Piazza (PDF)</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Apr 2, 6:29pm</td>
+            <td>Read this <a href="https://www.ideals.illinois.edu/bitstream/handle/2142/12247/ecse909.pdf">ethics
+            paper (PDF)</a> to prepare for class discussion</td>
         </tr>
     </tbody>
 </table>
@@ -243,7 +249,7 @@ to add materials from past lectures.
             <br />
             Bring a laptop!
             <br />
-            <span class="assignment">Homework 3b due at 11:59pm &mdash; post it
+            <span class="assignment done">Homework 3b due at 11:59pm &mdash; post it
             on Piazza (PDF)!</span>
             </td>
         </tr>
@@ -283,17 +289,22 @@ to add materials from past lectures.
         <tr class="week odd">
             <td>9</td>
             <td>Mar 26</td>
-            <td>Entrepreneurship and startups</td>
+            <td>CLI basics and project work day
+            </td>
         </tr>
         <tr class="week odd">
             <td>9</td>
             <td>Mar 28</td>
-            <td>Entrepreneurship and startups</td>
+            <td>Open source software
+            </td>
         </tr>
         <tr class="week">
             <td>10</td>
             <td>Apr 2</td>
-            <td>Workplace interactions</td>
+            <td>Ethics in computing
+            <br />
+            <span class="assignment">Homework 4 due</span>
+            </td>
         </tr>
         <tr class="week">
             <td>10</td>
@@ -308,7 +319,7 @@ to add materials from past lectures.
         <tr class="week odd">
             <td>11</td>
             <td>Apr 11</td>
-            <td>Open source software and the community</td>
+            <td>Workplace interactions</td>
         </tr>
         <tr class="week">
             <td>12</td>
