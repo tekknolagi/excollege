@@ -239,6 +239,9 @@ to add materials from past lectures.
             <br />
             <span class="assignment done">Homework 3a due at 11:50pm &mdash;
             post it on Piazza (PDF)!</span>
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_11.pdf">slides</a> (same as
+            above)
             </td>
         </tr>
         <tr class="week odd">
@@ -251,6 +254,10 @@ to add materials from past lectures.
             <br />
             <span class="assignment done">Homework 3b due at 11:59pm &mdash; post it
             on Piazza (PDF)!</span>
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_13_workflow.pdf">slides (workflow)</a>
+            <br />
+            <a href="#">slides (git)</a> (pending approval)
             </td>
         </tr>
         <tr class="week odd">
@@ -296,6 +303,8 @@ to add materials from past lectures.
             <td>9</td>
             <td>Mar 28</td>
             <td>Open source software
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_18.pdf">slides</a>
             </td>
         </tr>
         <tr class="week">
@@ -304,6 +313,8 @@ to add materials from past lectures.
             <td>Ethics in computing
             <br />
             <span class="assignment">Homework 4 due</span>
+            <br />
+            <a href="{{ site.baseurl }}/assets/day_19.pdf">handout</a>
             </td>
         </tr>
         <tr class="week">
