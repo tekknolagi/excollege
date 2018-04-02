@@ -325,7 +325,10 @@ to add materials from past lectures.
         <tr class="week odd">
             <td>11</td>
             <td>Apr 9</td>
-            <td>Building and maintaining a personal online presence</td>
+            <td>Presentation workshop
+            <br />
+            Bring your computer!
+            </td>
         </tr>
         <tr class="week odd">
             <td>11</td>
