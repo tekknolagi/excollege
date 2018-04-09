@@ -61,7 +61,7 @@ negotiate a room in Halligan. Keep checking this page for updates.
             <td>Mar 5, 11:59pm</td>
             <td>Post your final specification on Piazza (PDF)</td>
         </tr>
-        <tr>
+        <tr class="done">
             <td>4</td>
             <td>Apr 2, 6:29pm</td>
             <td>Read this <a href="https://www.ideals.illinois.edu/bitstream/handle/2142/12247/ecse909.pdf">ethics
@@ -312,7 +312,7 @@ to add materials from past lectures.
             <td>Apr 2</td>
             <td>Ethics in computing
             <br />
-            <span class="assignment">Homework 4 due</span>
+            <span class="assignment done">Homework 4 due</span>
             <br />
             <a href="{{ site.baseurl }}/assets/day_19.pdf">handout</a>
             </td>
@@ -320,7 +320,7 @@ to add materials from past lectures.
         <tr class="week">
             <td>10</td>
             <td>Apr 4</td>
-            <td>UI/UX <b>guest speaker</b></td>
+            <td>UI/UX guest speaker <b>Bruno Olmedo</b>!</td>
         </tr>
         <tr class="week odd">
             <td>11</td>
