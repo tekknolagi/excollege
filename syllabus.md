@@ -257,7 +257,7 @@ to add materials from past lectures.
             <br />
             <a href="{{ site.baseurl }}/assets/day_13_workflow.pdf">slides (workflow)</a>
             <br />
-            <a href="#">slides (git)</a> (pending approval)
+            <a href="{{ site.baseurl }}/assets/day_13_git.pdf">slides (git)</a>
             </td>
         </tr>
         <tr class="week odd">
@@ -325,9 +325,9 @@ to add materials from past lectures.
         <tr class="week odd">
             <td>11</td>
             <td>Apr 9</td>
-            <td>Presentation workshop
+            <td>Presentation workshop &mdash; Bring your computer!
             <br />
-            Bring your computer!
+            <a href="{{ site.baseurl }}/assets/day_20.pdf">slides</a>
             </td>
         </tr>
         <tr class="week odd">
