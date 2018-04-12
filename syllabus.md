@@ -335,6 +335,12 @@ to add materials from past lectures.
             <td>Apr 11</td>
             <td>Workplace interactions</td>
         </tr>
+        <tr class="week odd">
+            <td>11</td>
+            <td>Apr 13</td>
+            <td>Field trips to Microsoft and TripAdvisor! Check Piazza for
+            details.</td>
+        </tr>
         <tr class="week">
             <td>12</td>
             <td>Apr 16</td>
