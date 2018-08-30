@@ -18,20 +18,20 @@ assignments, and helpful resources here.
 Anyway, you probably have some questions...
 </p>
 
-<h2>What is the course called?</h2>
+<h2>What was the course called?</h2>
 <p>
 It's called <i>Tech Trends and Careers: Tufts and Beyond</i>
 <sup id="fnref:naming"><a href="#fn:naming" class="footnote">1</a></sup>.
 </p>
 
-<h2>Who should take this class?</h2>
+<h2>Who should have taken this class?</h2>
 <p>
 Anyone, really! We're trying to get Tufts people settled into fulfilling
 careers after they graduate. We will reserve a good amount of space for
 freshmen and sophomores who might otherwise be rather confused.
 </p>
 
-<h2>Why should I take it?</h2>
+<h2>Why should I have taken it?</h2>
 <p>
 Ever wonder what options you might have in tech? Already interested in tech but
 not sure how to start your job search? Already in the job search but need some
@@ -76,7 +76,7 @@ Since people will be working on independent projects, this is somewhat
 important. But COMP 11 as a corequisite should be totally fine.
 </p>
 
-<h2>What if I don't get in?</h2>
+<h2>What if I didn't get in?</h2>
 <p>
 Please come to the first couple lectures anyway! If someone drops, we would be
 positively thrilled for you to join.
@@ -91,7 +91,7 @@ welcome to audit. Participating in the discussions and being motivated to work
 on a project should still prove quite helpful.
 </p>
 
-<h2>Who is teaching it?</h2>
+<h2>Who taught it?</h2>
 <p>
 Well,
 <blockquote>
@@ -106,7 +106,7 @@ Well,
 ...or so says the course catalog.
 </p>
 
-<h2>Will this course actually use blockchain technology or big
+<h2>Did this course actually use blockchain technology or big
     data to disrupt my job hunt?</h2>
 <p>No. But you might be able to use either or both in your project
 <sup id="fnref:disrupt"><a href="#fn:disrupt" class="footnote">2</a></sup>.
