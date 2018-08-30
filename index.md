@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Tech Trends and Careers
+title: "EXP 57: Tech Trends and Careers"
 layout: page
 ---
 
