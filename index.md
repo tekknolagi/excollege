@@ -11,7 +11,7 @@ Tufts and Beyond". Yuki Zaninovich and Max Bernstein taught it in the Spring of
 </p>
 <p>
 This document <del>will eventually turn into</del> only sort of turned into the
-course website, so keep it bookmarked. We will post important readings,
+course website <del>, so keep it bookmarked</del>. We posted important readings,
 assignments, and helpful resources here.
 </p>
 <p>
