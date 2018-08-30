@@ -9,8 +9,19 @@
             }
 
             #content {
-                margin: 15px 0 0 40px;
                 max-width: 650px;
+            }
+
+            @media (min-width: 700px) {
+                #content {
+                    margin: 15px 0 0 40px;
+                }
+            }
+
+            @media (max-width: 700px) {
+                #content {
+                    margin: 10px 10px 0 10px;
+                }
             }
 
             ol.footnotes > li + li {
