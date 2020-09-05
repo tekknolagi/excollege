@@ -28,4 +28,4 @@ We will post important readings, assignments, and helpful resources here.
 ### Technical writing
 
 * [How to write a technical specification](http://web.archive.org/web/20171221102806/https://stackoverflow.com/questions/677901/how-do-i-write-a-technical-specification-document-for-my-software-project)
-* [On design and design documents]({% link assets/design.pdf %})
+* [On design and design documents]({{ 'assets/design.pdf' | relative_url }})
