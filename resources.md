@@ -13,6 +13,13 @@ We will post important readings, assignments, and helpful resources here.
 * [So you don't want to be a programmer](https://blog.codinghorror.com/so-you-dont-want-to-be-a-programmer-after-all/)
 * [Life as a freelance programmer](https://www.quora.com/Whats-life-like-as-a-freelance-programmer-compared-to-working-for-a-company)
 
+### Talking to human beings
+
+also known as "Networking" by some people.
+
+* Check out [this slide deck]({{ 'assets/networking_101.pdf' | relative_url }})
+  by some Tufts alumni ('17 and '18)
+
 ### Interview stuff
 
 * [Data structures for interviews](http://www.columbia.edu/~jxz2101/#1)
