@@ -18,7 +18,7 @@ We will post important readings, assignments, and helpful resources here.
 also known as "Networking" by some people.
 
 * (<span style="color: red;"><i>new!</i></span>) Check out [this slide deck]({{ 'assets/networking_101.pdf' | relative_url }})
-  by some Tufts alumni ('17 and '18)
+  by Winnona DeSombre (Tufts '18)
 
 ### Interview stuff
 
